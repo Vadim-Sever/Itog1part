@@ -1,0 +1,15 @@
+C:\Users\Vadim\Desktop\GB\C#\Examples\Itog1part\obj\MCD\Debug\net6.0\Itog1part.csproj.AssemblyReference.cache
+C:\Users\Vadim\Desktop\GB\C#\Examples\Itog1part\obj\MCD\Debug\net6.0\Itog1part.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vadim\Desktop\GB\C#\Examples\Itog1part\obj\MCD\Debug\net6.0\Itog1part.AssemblyInfoInputs.cache
+C:\Users\Vadim\Desktop\GB\C#\Examples\Itog1part\obj\MCD\Debug\net6.0\Itog1part.AssemblyInfo.cs
+C:\Users\Vadim\Desktop\GB\C#\Examples\Itog1part\obj\MCD\Debug\net6.0\Itog1part.csproj.CoreCompileInputs.cache
+C:\Users\Vadim\Desktop\GB\C#\Examples\Itog1part\bin\MCD\Debug\net6.0\Itog1part.exe
+C:\Users\Vadim\Desktop\GB\C#\Examples\Itog1part\bin\MCD\Debug\net6.0\Itog1part.deps.json
+C:\Users\Vadim\Desktop\GB\C#\Examples\Itog1part\bin\MCD\Debug\net6.0\Itog1part.runtimeconfig.json
+C:\Users\Vadim\Desktop\GB\C#\Examples\Itog1part\bin\MCD\Debug\net6.0\Itog1part.dll
+C:\Users\Vadim\Desktop\GB\C#\Examples\Itog1part\bin\MCD\Debug\net6.0\Itog1part.pdb
+C:\Users\Vadim\Desktop\GB\C#\Examples\Itog1part\obj\MCD\Debug\net6.0\Itog1part.dll
+C:\Users\Vadim\Desktop\GB\C#\Examples\Itog1part\obj\MCD\Debug\net6.0\refint\Itog1part.dll
+C:\Users\Vadim\Desktop\GB\C#\Examples\Itog1part\obj\MCD\Debug\net6.0\Itog1part.pdb
+C:\Users\Vadim\Desktop\GB\C#\Examples\Itog1part\obj\MCD\Debug\net6.0\Itog1part.genruntimeconfig.cache
+C:\Users\Vadim\Desktop\GB\C#\Examples\Itog1part\obj\MCD\Debug\net6.0\ref\Itog1part.dll
